@@ -19,7 +19,7 @@ Limited Formatting of text can be done using simple *Markdown* characters,
 which are more concise but less capable then *HTML Markup*. 
 
 To get started go to the **[Assignment 3 – Website Markdown](Asgn3-Markdown.pdf)** by clicking on this [link](Asgn3-Markdown.pdf). 
-You can write in English:us:  or 日本語:jp: or any other language you wish. 
+You can write in English :us:  or 日本語 :jp: or any other language you wish. 
 
 I am writing this from 日本国山口県岩国市由宇町北。
   
