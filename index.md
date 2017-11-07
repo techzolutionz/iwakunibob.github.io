@@ -1,15 +1,11 @@
+
 # I use this website for IFSM201 class
 
-
-
 [Bio = Resume](bio.md)   
-
 [Topic = Procrastination](topic.md)
-
 ---
 
 ### GitHub seems like the perfect solution for creating a simple website in markdown. 
-
  * You can create code using markdown
  * You can upload images that you would like to display on your webpages
  * Simple to get started 
