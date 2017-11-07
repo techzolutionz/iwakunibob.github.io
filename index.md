@@ -1,8 +1,9 @@
 
 # I use this website for IFSM201 class
 
-## [Bio = Resume](bio.md)   
-## [Topic = Procrastination](topic.md)
+### [Bio = Resume](bio.md)   
+### [Topic = Procrastination](topic.md)
+### [Photo Album](album.md)
 
 ---
 
