@@ -2,7 +2,9 @@
 
 
 
-[Bio = Resume](bio.md)   [Topic = Procrastination](topic.md)
+[Bio = Resume](bio.md)   
+
+[Topic = Procrastination](topic.md)
 
 ---
 
