@@ -17,4 +17,4 @@
 #### Upper Valley 
 ![Above](8-ValleyAbove.JPG)
 
-##### [Top](#top)
+
