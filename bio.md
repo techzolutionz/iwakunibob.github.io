@@ -1,12 +1,15 @@
+
 #Robert M. Laurie
  
 ####Address:  
+
 沖縄県中頭郡北谷町  
 Chatan, Okinawa, JAPAN
 
 ---  
 
 ##Academic Employment Experience:
+
 ###[University of Maryland](http://www.umuc.edu)  
 
 <http://www.umuc.edu>
@@ -56,6 +59,7 @@ Taught the following courses:
  
  
 ###Michigan Technological University  
+
 Electrical & Computer Engineering Department, Houghton, Michigan 49931  
 Instructor, January 2000 through May 2001 and August1988 through May 1990   
 Created laboratory experiments for all courses taught.  
@@ -70,7 +74,9 @@ Taught the following courses and laboratories:
 
 ---
 ##Industry Employment Experience:
+
 ###Magic Edge Incorporated / LSSI
+
 1245 Space Park Way, Mountain View, California 94043  
 Senior Project Engineer, 1994 through 1996  
 Virtual reality company that produces flight simulation equipment  
@@ -79,7 +85,9 @@ Virtual reality company that produces flight simulation equipment
 * Project management and vendor procurement 
 * Control software programming using C and Visual Basic 
 * Control design using PC I/O cards for motion and safety systems  
+
 ###John Deere Incorporated  
+
 18600 S. John Deere Road, Dubuque, Iowa 52001  
 Electrical Engineer, 1991 through 1993  
 Construction equipment division, experimental test center  
