@@ -1,8 +1,7 @@
 
 # I use this website for IFSM201 class
 
-### [Bio = Resume](bio.md)   
-### [Topic = Procrastination](topic.md)
+![UMUC LOGO](http://www.usmd.edu/images/featured_institutions/new/UMUC-Color.png)
 ### [Photo Album](album.md)
 
 ---
