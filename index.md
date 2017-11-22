@@ -2,7 +2,11 @@
 # I use this website for IFSM201 class
 
 ![UMUC LOGO](http://www.usmd.edu/images/featured_institutions/new/UMUC-Color.png)
-### [Photo Album](album.md)
+
+---
+ * [Topic](topic.md)
+ * [Bio](bio.md)
+ * [Photo Album](album.md)
 
 ---
 
