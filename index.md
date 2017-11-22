@@ -28,3 +28,4 @@ I am writing this from 日本国山口県岩国市由宇町北。
   
 [**Aaron Swartz**](https://youtu.be/vXr-2hwTk58) conceptualized markdown code and, co-created Reddit. 
 He was a celebrated free-culture activist, programmer, and [**Wikipedian**](http://en.wikipedia.org/wiki/Aaron_Swartz).
+
