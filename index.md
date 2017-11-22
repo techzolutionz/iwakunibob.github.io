@@ -2,16 +2,16 @@
 
 ## This website supports IFSM 201 class  
 
-*by Robert Laurie*
+by *Robert Laurie*
 
 ---
 
-### [Photo Album](album.md)
- 
-### [Topic](topic.md)
- 
-### [Bio](bio.md)
-
+### [Photo Album](album.md)  
+  
+### [Topic](topic.md)  
+  
+### [Bio](bio.md)  
+  
 ---
 
 ### GitHub seems like the perfect solution for creating a simple website in markdown. 
