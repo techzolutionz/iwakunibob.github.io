@@ -3,6 +3,7 @@
 ## This website supports my IFSM 201 class  
 
 *by Robert Laurie*
+
 ---
 
  ### [Photo Album](album.md)
