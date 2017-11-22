@@ -1,6 +1,6 @@
 ![UMUC LOGO](http://www.usmd.edu/images/featured_institutions/new/UMUC-Color.png)
 
-## This website supports my IFSM 201 class  
+## This website supports IFSM 201 class  
 
 *by Robert Laurie*
 
