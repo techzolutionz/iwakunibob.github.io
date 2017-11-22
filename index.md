@@ -4,9 +4,9 @@
 ![UMUC LOGO](http://www.usmd.edu/images/featured_institutions/new/UMUC-Color.png)
 
 ---
- * [Topic](topic.md)
- * [Bio](bio.md)
  * [Photo Album](album.md)
+ * ###[Topic](topic.md)
+ * [Bio](bio.md)
 
 ---
 
