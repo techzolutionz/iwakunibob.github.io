@@ -6,11 +6,11 @@
 
 ---
 
- ### [Photo Album](album.md)
+### [Photo Album](album.md)
  
- ### [Topic](topic.md)
+### [Topic](topic.md)
  
- ### [Bio](bio.md)
+### [Bio](bio.md)
 
 ---
 
