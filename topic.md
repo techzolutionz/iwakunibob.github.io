@@ -1,3 +1,5 @@
+[[Home]](index.md)
+
 # Procrastination  
 
 _by Robert Laurie_
