@@ -1,4 +1,4 @@
-[[Home]](index.md)
+[[Home]](index.html)
 
 # Robert M. Laurie
  
