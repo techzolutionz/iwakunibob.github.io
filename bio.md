@@ -1,6 +1,8 @@
 [[Home]](index.html)
 
 # Robert M. Laurie
+
+[bow](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/16831031_10158391273525089_5219129703654005656_n.jpg?oh=f69833e4a7495b7e0aa89ca7cc96517b&oe=5AD730EB)
  
 #### Address:  
 
