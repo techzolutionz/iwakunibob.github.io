@@ -2,7 +2,7 @@
 
 # Robert M. Laurie
 
-[bow](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/16649422_10158391273165089_9123231288336818461_n.jpg?oh=52a5cc07488aedc4c67972684b0ee5e6&oe=5AD5A188)
+![bow](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/16649422_10158391273165089_9123231288336818461_n.jpg?oh=52a5cc07488aedc4c67972684b0ee5e6&oe=5AD5A188)
  
 #### Address:  
 
