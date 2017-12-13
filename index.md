@@ -6,11 +6,11 @@ by *Robert Laurie*
 
 ---
 
-### [Photo Album](album.md)  
+### [Photo Album](album)  
   
-### [Topic](topic.md)  
+### [Topic](topic)  
   
-### [Bio](bio.md)  
+### [Bio](bio)  
   
 ---
 
