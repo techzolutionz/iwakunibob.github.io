@@ -132,4 +132,4 @@ Michigan Technological University, Houghton, Michigan 49931
 * Foundations of Education 
 * Computers in Education
 * Measurement and Evaluation in Education & Psychology  
-* Drawing and Painting Classes
+* Drawing and Painting Classes 
