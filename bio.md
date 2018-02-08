@@ -2,11 +2,11 @@
 
 # Robert M. Laurie
 
-#### Address:  
+#### This is not my Address anymore  
 
 沖縄県中頭郡北谷町  
 Chatan, Okinawa, JAPAN
-
+![image of beach](https://www.supercoolbeaches.com/sites/default/files/styles/medium/public/aharen-beach-okinawa.jpg?itok=MPW-GzUi)
 ---  
 
 ## Academic Employment Experience:
