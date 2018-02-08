@@ -1,4 +1,4 @@
-![UMUC LOGO](http://www.usmd.edu/images/featured_institutions/new/UMUC-Color.png)
+![UMUC LOGO](sakura11_110407_iwakuni_01.jpg)
 
 ## This website supports IFSM 201 class  
 
