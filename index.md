@@ -28,7 +28,7 @@ which are more concise but less capable then *HTML Markup*.
 To get started go to the **[Assignment 3 – Website Markdown](Asgn3-Markdown.pdf)** by clicking on this [link](Asgn3-Markdown.pdf). 
 You can write in English  or 日本語 or any other language you wish.  
 Watch these two videos to get started:
-1. [GitHub Hosting in 5 minutes | Free Static Web Hosting | Quick Code](https://youtu.be/hXorYP_HQtM)
+1. [GitHub Hosting in 5 minutes](https://youtu.be/hXorYP_HQtM)
 1. [Markdown tutorial](https://youtu.be/6A5EpqqDOdk)
 
 I am writing this from 日本国山口県岩国市由宇町北。
