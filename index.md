@@ -6,7 +6,7 @@ by *Robert Laurie*
 
 ---
 
-### [Photo Album](album.html)  
+### [Photo Album](album)  
   
 ### [Topic](topic)  
   
