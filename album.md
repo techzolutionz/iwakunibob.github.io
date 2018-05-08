@@ -3,18 +3,18 @@
 ### [Home](index.md)
 
 #### View of back yard
-![Back yard](photos/1-BackWindowView.JPG)
+![Back yard](images/1-BackWindowView.JPG)
 
 #### Cross roads
-![Crossroads](photos/3-crossroads.JPG)
+![Crossroads](images/3-crossroads.JPG)
 
 #### Mid Valley
-![Mid Valley](photos/4-MidValley.JPG)
+![Mid Valley](images/4-MidValley.JPG)
 
 #### Dam on yuugawa
-![Dam](photos/5-riverView.JPG)
+![Dam](images/5-riverView.JPG)
 
 #### Upper Valley 
-![Above](photos/8-ValleyAbove.JPG)
+![Above](images/8-ValleyAbove.JPG)
 
 
