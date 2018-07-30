@@ -2,6 +2,7 @@
 ### by Bob Laurie
 
 I live in [Iwakuni, Japan](https://www.mcasiwakuni.marines.mil/)
-![the bridge](https://goo.gl/images/s3AdWE "Kintai bridge is cool")
+![the bridge](https://www.japan-guide.com/g17/740/6177_03.jpg "Kintai bridge is cool")
 
 We just had a flood but it wasn't too bad
+[video](https://youtu.be/SPg2zikKVu0)
