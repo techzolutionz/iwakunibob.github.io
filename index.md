@@ -6,3 +6,6 @@ I live in [Iwakuni, Japan](https://www.mcasiwakuni.marines.mil/)
 
 We just had a flood but it wasn't too bad
 [video](https://youtu.be/SPg2zikKVu0)
+
+##This is a closeup of bridge
+![bridge](kintai-close.jpg]
