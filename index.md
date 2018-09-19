@@ -2,6 +2,8 @@
 ### by Bob Laurie  
 Check out my [Bio](bio "It is really me")
 
+#### This *coding* stuff fun
+
 I live in [Iwakuni, Japan](https://www.mcasiwakuni.marines.mil/)
 ![the bridge](https://www.japan-guide.com/g17/740/6177_03.jpg "Kintai bridge is cool")
 
