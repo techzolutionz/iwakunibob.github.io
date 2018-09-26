@@ -13,3 +13,6 @@ We just had a flood but it wasn't too bad
 ## This is a closeup of bridge  
 
 ![bridge](kintai-close.jpg)
+
+### This is the waterfall
+![Water fall](waterfall.jpg)
