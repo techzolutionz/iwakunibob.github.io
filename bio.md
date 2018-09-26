@@ -8,6 +8,6 @@ I like sea kayaking and scuba diving.
 ![lighthouse](lighthouse.jpg)
 
 This following image should not display
-![dummy](dummy.jpg)
+![dummy one](dummy.jpg)
 
 [Home](index)
