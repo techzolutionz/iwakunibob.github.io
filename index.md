@@ -1,6 +1,7 @@
 # This is my home page
 ### by Bob Laurie  
 Check out my [Bio](bio "It is really me")
+Check out photos of my village [Yuu](photos/index)
 
 #### This *coding* stuff fun
 
