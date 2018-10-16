@@ -5,6 +5,8 @@ Check out photos of my village [Yuu](photos/index)
 
 #### This *coding* stuff fun
 
+My [Topic](topic)
+
 I live in [Iwakuni, Japan](https://www.mcasiwakuni.marines.mil/)
 ![the bridge](https://www.japan-guide.com/g17/740/6177_03.jpg "Kintai bridge is cool")
 
