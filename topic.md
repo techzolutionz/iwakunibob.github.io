@@ -1,8 +1,14 @@
-[[Home]](index.html)
-
 # Procrastination  
 
-_by Robert Laurie_
+*by Robert Laurie*
+
+[Go to Home](index)
+
+[Go to Biography page](bio)
+
+[UMUC Home page](https://www.asia.umuc.edu/)
+
+[Class home page](http://islandman.org/um/ifsm201/index.html)
  
 Procrastination seems to be my plight.  
 With last minute anxiety, I search for insight.  
