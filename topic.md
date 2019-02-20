@@ -24,3 +24,5 @@ Procrastination makes me feel alive.
 Not just another bee of the hive.  
 Preparing five hours to talk for one.  
 Is a waste of time for a child of the sun. 
+
+![image procrastination](https://www.njlifehacks.com/wp-content/uploads/2018/01/procrastination-facts.jpg)
