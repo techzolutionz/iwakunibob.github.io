@@ -3,7 +3,7 @@
 Check out my [Bio](bio "It is really me")
 Check out photos of my village [Yuu](photos/index)
 
-#### This *coding* stuff fun
+#### This *coding* stuff is fun
 
 My [Topic](topic)
 
