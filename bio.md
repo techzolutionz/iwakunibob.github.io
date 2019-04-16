@@ -5,7 +5,7 @@ I like sea kayaking and scuba diving.
 
 ![A mountain image](mountain.JPG)
 
-![Miyajima Tori Gate](https://images.app.goo.gl/jugENH5WiPBk9Ain6)
+![Miyajima Tori Gate](https://cache-graphicslib.viator.com/graphicslib/page-images/742x525/179531_Viator_Shutterstock_141445.jpg)
 
 ![lighthouse](lighthouse.jpg)
 
