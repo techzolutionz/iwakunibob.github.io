@@ -1,6 +1,6 @@
 # Robert M. Laurie
-## Experience
-### I like to kayak 
+## Experience 
+### I like to kayak and dive
 I like sea kayaking and scuba diving.
 
 ![A mountain image](mountain.JPG)
