@@ -1,7 +1,3 @@
----
-
----
-
 # This is my home page
 ### by Bob Laurie  
 Check out my [Bio](bio "It is really me")
