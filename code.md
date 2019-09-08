@@ -4,4 +4,4 @@
 
 ## This is Bob
 
-<script> alert("Hello Bob")</script>
+<script> name = prompt("What is your name?"); alert("Hello " + name) </script>
