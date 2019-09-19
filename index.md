@@ -5,3 +5,5 @@
 ### What do you think
 
 I am a student at UMGC =  *University of Maryland Global Campus*
+
+![Sanshin](MeSanshin.JPG)
