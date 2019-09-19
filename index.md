@@ -2,7 +2,7 @@
 
 ## This is so exciting
 
-### What do you think
+### Check out my [bio page](bio)
 
 I am a student at UMGC =  *University of Maryland Global Campus*
 
