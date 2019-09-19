@@ -4,4 +4,4 @@
 
 ### What do you think
 
-I am a student at UMGC =  **University of Maryland *Global Campus* **
+I am a student at UMGC =  *University of Maryland Global Campus*
