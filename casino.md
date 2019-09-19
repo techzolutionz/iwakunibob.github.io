@@ -1,7 +1,7 @@
 # Casino Chip Counter program
 
 ### Quantity of Color Chips 
-```
+```javascript
 <script>
   var qBlack = parseInt(prompt("How many Black chips?"));
   document.writeln("$5 Black Qty = " + qBlack + " Value = " + 5 * qBlack);
