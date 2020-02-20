@@ -2,7 +2,7 @@
 
 ## This is so exciting
 
-### Check out my [bio page](bio)
+### Check out my [bio page](bio2)
 
 I am a professor at UMGC =  *University of Maryland Global Campus*
 
