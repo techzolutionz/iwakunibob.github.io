@@ -1,11 +1,9 @@
-# This is my home page
+# This is an example Home Page
 
 ## This is so exciting
 
 ### Check out my [bio page](bio)
 
-I am a student at UMGC =  *University of Maryland Global Campus*
+I am a professor at UMGC =  *University of Maryland Global Campus*
 
-![Sanshin](MeSanshin.JPG)
-
-![pirate](https://cdn3-www.superherohype.com/assets/uploads/2018/10/PiratesOfTheCaribbean.jpg)
+![I live at Iwakuni](https://d3hg7snzn13jf0.cloudfront.net/files/kanko/1969/1969--917ae43d75fe481dbfcabebf1d82a81e.jpg)
